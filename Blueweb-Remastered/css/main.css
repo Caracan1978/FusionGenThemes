@@ -300,9 +300,7 @@ a img {
 	text-align:center;
 	padding:5px;
 	padding-top:7px;
-	-webkit-box-shadow:0px 0px 5px #000608;
 	box-shadow:0px 0px 5px #000608;
-	-moz-box-shadow:0px 0px 5px #000608;
 }
 
 .realm_button a {
@@ -334,9 +332,7 @@ a img {
 .table {
 	margin-left:auto;
 	margin-right:auto;
-	-webkit-box-shadow:0px 0px 5px #000608;
 	box-shadow:0px 0px 5px #000608;
-	-moz-box-shadow:0px 0px 5px #000608;
 }
 
 .table td{
@@ -375,8 +371,6 @@ a img {
 	display:block;
 	margin-top:10px;
 	margin-bottom:10px;
-	-moz-border-radius:5px;
-	-webkit-border-radius:5px;
 	border-radius:5px;
 	background-image:url(../images/top.jpg);
 	height:20px;
@@ -386,9 +380,7 @@ a img {
 	text-align:center;
 	padding:5px;
 	padding-top:7px;
-	-webkit-box-shadow:0px 0px 5px #000608;
 	box-shadow:0px 0px 5px #000608;
-	-moz-box-shadow:0px 0px 5px #000608;
 }
 
 .shop_button a {
@@ -418,19 +410,8 @@ a img {
 	font-weight:bold;
 	text-align:center;
 	background-color:#021015;
-	background:-webkit-gradient(
-					linear,
-					left bottom,
-					left top,
-					color-stop(0, #021015),
-					color-stop(1, #0a171d));
-	background:-moz-linear-gradient(
-					center bottom,
-					#021015 0%,
-					#0a171d 100%);
 	border:1px solid #0a3748;
 	border-radius:5px;
-	-moz-border-radius:5px;
 	text-shadow:1px 1px 0px #000000;
 	color:#579eb8;
 	font-size:9px;
@@ -448,19 +429,8 @@ a img {
 	height:24px;
 	font-weight:bold;
 	background-color:#021015;
-	background:-webkit-gradient(
-					linear,
-					left bottom,
-					left top,
-					color-stop(0, #021015),
-					color-stop(1, #0a171d));
-	background:-moz-linear-gradient(
-					center bottom,
-					#021015 0%,
-					#0a171d 100%);
 	border:1px solid #0a3748;
 	border-radius:5px;
-	-moz-border-radius:5px;
 	text-shadow:1px 1px 0px #000000;
 	color:#579eb8;
 	float:left;
@@ -537,10 +507,6 @@ a img {
 	width:89px;
 	height:13px;
 	display:block;
-	-webkit-transition: all 150ms;
-	-moz-transition: all 150ms;
-	-o-transition: all 150ms;
-	-ms-transition: all 150ms;
 	transition: all 150ms;
 	margin-left:auto;
 	margin-right:auto;
