@@ -1,7 +1,7 @@
 {
-	"name": "BlueWeb",
-	"author": "Jesper Lindström",
-	"website": "http://raxezdev.com",
+	"name": "BlueWeb Remastered",
+	"author": "Jesper Lindström & OMGhixD",
+	"website": "https://github.com/fusiongen/fusiongen",
 	
 	"favicon": "favicon.gif",
 
@@ -9,8 +9,8 @@
 	"small_avatar": "images/avatars/0_small.jpg",
 
 	"slider_text": {
-		"next": "Next",
-		"previous": "Prev"
+		"next": ">",
+		"previous": "<"
 	},
 
 	"slider_id": "slider_box",
