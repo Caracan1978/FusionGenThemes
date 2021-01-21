@@ -1,24 +1,20 @@
-## FusionGEN
+## FusionGEN Themes
 
-Latest FusionGEN Version: 1.0.2 
-- Based on FusionCMS Version: 6.2.1
-
-### Requirements
-
-| Requirements | Description |
-| --- | --- |
-| PHP 7.1.33 (Required) | (enable Extensions: php_mysqli, php_curl, php_openssl, php_soap, php_mbstring and php_json) |
-| Apache / Nginx | (enable modules: mod_rewrite and mod_headers) |
-| Pre installed World of Warcraft Server | (with the databases of: Auth, Characters and World) |
-| MySQL Server |  |
+This is a repository with donated themes. For the FusionGEN Community! 
 
 ### Installation
 
-Read the [installation guide](INSTALL.md).
+1.) Drop the theme folder into your "application/themes" folder.
+2.) Head over to your AdminCP (Admin Control Panel) and click "Change theme"
+3.) Select Theme of choice and click "Activate theme" (A Message saying "The theme has been changed!) Should appear.
+4.) That is all!
+
+Note: Some people may have to edit it manually at "application/config/fusion.php" line 29, simply put the folder name in-between the qoutes
+Example: $config['theme'] = "Blueweb-Remastered";
 
 ### License Information
 
-In the original FusionCMS Version you were required to purchase a License in order to use the CMS. The License system has been removed and is not required, this project is free and you may use this as it pleases you. Enjoy!
+You are allowed to use these themes as you see it fit. However, you are not allowed to delete any of the credits within these themes. It is because of the names mentioned in the credits that you were given something for free. Respect that!
 
 ### Project Information
 
@@ -29,8 +25,8 @@ We appreciate all contributions made to the cause.
 Thank you and best regards from the maintainers of FusionGEN
 
 - OMGhixD
-- Jiinx
+- Jiinx (Retired Maintainer)
 
 Support and Community Communication takes place on our Official Discord Server (Invitiation link down below)
 
-- Discord https://discord.gg/vRnr6WJ
+- Discord https://discord.gg/5nSt9puU4V
