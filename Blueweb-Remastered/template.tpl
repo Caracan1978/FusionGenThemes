@@ -57,8 +57,9 @@
                 &copy; Copyright {date("Y")} {$serverName}
 
 				<div id="cms">
-				<center>Proudly Powered by</center>
-                	<a href="http://www.fusion-hub.com" target="_blank"></a>
+				<center>BlueWeb Remastered by Jesper & OMGhixD</center>
+				</br><center>Proudly Powered by</center>
+                	<a href="https://github.com/fusiongen/fusiongen" target="_blank"></a>
                 </div>
             </div>
 		</div>
