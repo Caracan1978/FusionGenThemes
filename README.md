@@ -5,8 +5,11 @@ This is a repository with donated themes. For the FusionGEN Community!
 ### Installation
 
 1.) Drop the theme folder into your "application/themes" folder.
+
 2.) Head over to your AdminCP (Admin Control Panel) and click "Change theme"
+
 3.) Select Theme of choice and click "Activate theme" (A Message saying "The theme has been changed!) Should appear.
+
 4.) That is all!
 
 Note: Some people may have to edit it manually at "application/config/fusion.php" line 29, simply put the folder name in-between the qoutes
