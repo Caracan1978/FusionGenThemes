@@ -217,7 +217,7 @@ textarea {
 select {
 	font-family:Arial, Helvetica, Sans-serif;
 	font-size:12px;
-	width:84%;
+	width:80%;
 	padding:8px;
 	color:#fff;
 	background-color:#021015;
@@ -228,7 +228,7 @@ select {
 }
 
 input[type="submit"], .nice_button {
-	padding:7px;
+	padding:8px;
 	color: #e2e2e2;
 	cursor: pointer;
 	font-size: 12px;
@@ -296,6 +296,7 @@ input[type="email"]:focus {
 	background-repeat:no-repeat;
 	height:424px;
 	width:33px;
+	margin-right:5px;
 }
 
 #armory {
